@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "tests/**"
+applyTo: "tests/**"
 ---
 
 # Test Standards

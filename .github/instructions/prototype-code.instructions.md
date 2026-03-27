@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "prototypes/**"
+applyTo: "prototypes/**"
 ---
 
 # Prototype Code Standards (Relaxed)

@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "design/gdd/**"
+applyTo: "design/gdd/**"
 ---
 
 # Design Document Rules

@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "src/ai/**"
+applyTo: "src/ai/**"
 ---
 
 # AI Code Rules

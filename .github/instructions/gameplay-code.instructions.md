@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "src/gameplay/**"
+applyTo: "src/gameplay/**"
 ---
 
 # Gameplay Code Rules

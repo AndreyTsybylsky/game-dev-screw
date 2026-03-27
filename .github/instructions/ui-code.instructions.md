@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "src/ui/**"
+applyTo: "src/ui/**"
 ---
 
 # UI Code Rules

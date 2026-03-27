@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "assets/data/**"
+applyTo: "assets/data/**"
 ---
 
 # Data File Rules

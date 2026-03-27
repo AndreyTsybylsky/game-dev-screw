@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "src/networking/**"
+applyTo: "src/networking/**"
 ---
 
 # Network Code Rules

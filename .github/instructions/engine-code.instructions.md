@@ -1,6 +1,5 @@
 ﻿---
-paths:
-  - "src/core/**"
+applyTo: "src/core/**"
 ---
 
 # Engine Code Rules
